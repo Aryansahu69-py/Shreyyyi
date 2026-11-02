@@ -1,91 +1,146 @@
-# Hi there 👋, I'm Shreya Kumari
+<div align="center">
 
-### 🚀 First-Year Engineering Student | Open Source Enthusiast | Web Developer
+# Hey there! 👋 I'm Shreya Kumari
 
-I'm a Electronics and Communication Engineering (AI) student at **IGDTUW**, passionate about building impactful solutions through technology. Currently exploring **Web Development, Data Structures & Algorithms, Open Source, and Hackathons** while continuously learning and growing as a developer.
+### Building projects, exploring open source, and creating impact. 🚀
 
----
+🎓 **ECE-AI @ IGDTUW** &nbsp;•&nbsp; 💻 **Student Developer** &nbsp;•&nbsp; 🌱 **Open Source Enthusiast**
 
-## 🌱 Currently Learning
+<br/>
 
-* Data Structures & Algorithms (C++)
-* HTML, CSS, JavaScript
-* React
-* Git & GitHub
-* Open Source Development
+*"I love asking why and building what if."*
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🌼 A Little About Me
 
-### Languages
+```text
+💻 Exploring the world of software development
+🌱 Learning through projects, DSA & open source
+🚀 Building things that create an impact
+🏆 Hackathon enthusiast & national-level sportsperson
+```
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+- 🔭 Currently exploring **Full-Stack Development and Open Source**
+- 🧩 Strengthening my **DSA and problem-solving skills**
+- 🤝 I enjoy collaborating, learning from communities and turning ideas into real projects
+- ⚡ When I'm not coding, you might find me on a sports field!
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode,react,nodejs,express,mongodb,vercel,netlify" />
+</p>
+
+> 🌱 **Always learning. Always building.**
+
+---
+
+# 🚀 Things I've Built
+
+### 🌟 SkillX
+A platform for **skill sharing and discovery**, featuring profiles, matching, search, filters and skill requests.
+
+🔗 **Live:** https://skillx45.netlify.app  
+💻 **Built with:** HTML, CSS & JavaScript
+
+<br/>
 
 ### 🩸 BloodConnect
+A web project focused on making connections around **blood donation more accessible**.
 
-A platform designed to connect blood donors and recipients quickly during emergencies.
+🔗 **Live:** https://blood-connect-nu-three.vercel.app
 
-### 🎯 SkillX
+<br/>
 
-A skill-sharing platform that enables people to learn and teach skills within a community.
+### ✈️ Travel AI
+A full-stack travel platform developed as part of a **team internship project**, featuring AI-powered travel assistance and itinerary planning.
 
----
-
-## 🏆 Achievements
-
-* Represented **Delhi** at National-Level Sports Championships
-* Internationally recognized in Essay & Story Writing Competitions
-* Active participant in Hackathons and Open Source Programs
-* Exploring opportunities towards **GSoC and Open Source Contributions**
+💻 **Tech explored:** React, Node.js, Express, MongoDB, Socket.IO & APIs
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Open Source Journey
 
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyyyi\&show_icons=true\&theme=tokyonight)
+💻 **ECWoC 2026 Contributor**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyyyi\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shreyyyi\&theme=tokyonight)
+- 🔀 Contributed across **10+ open-source projects**
+- ✅ **6+ merged Pull Requests**
+- 🐛 Worked on UI/UX improvements, documentation and project fixes
+- 🌍 Continuing to explore and contribute to the open-source community
 
 ---
 
-## 🎯 2026 Goals
+# ✨ Beyond Code
 
-* Strengthen DSA and Problem Solving
-* Build Full-Stack Projects
-* Contribute Consistently to Open Source
-* Participate in Major Hackathons
-* Prepare for GSoC
+### 🌱 Spark Fellowship 2026
+Selected as a **Spark Fellow** for a fully funded fellowship focused on **social impact, leadership and building solutions for real-world challenges**.
 
----
+As part of **Tribe Alpha**, worked on **ReGen** — an initiative exploring sustainable hygiene through the idea:
 
-## 🌐 Connect With Me
-
-📧 Email: [shreyakumari5@gmail.com](mailto:shreyakumari5@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/shreya-kumari1/
+> **Use. Return. Regenerate. 🌿**
 
 ---
 
-### ✨ Fun Fact
+# 🏆 A Few Highlights
 
-I enjoy solving problems, building things from scratch, and learning something new every day.
+- 🏁 **Hackathon Finalist** — Build With Bharat
+- ✨ **Spark Fellow**
+- 💻 **Open Source Contributor**
+- 🥈 Represented **Delhi at the National Level** in sports
+- 🏆 **National-level sportsperson**
+- 🌟 Exploring the intersection of **technology, community and impact**
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyyyi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=Shreyyyi&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyyyi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Shreya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyyyi&theme=tokyo-night&hide_border=true)](https://github.com/Shreyyyi)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-kumari1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shreyyyi">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🌻 Thanks for stopping by!
+
+**Building. Learning. Exploring. One project at a time. 🚀**
+
+</div>
