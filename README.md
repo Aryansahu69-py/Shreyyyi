@@ -101,13 +101,15 @@ As part of **Tribe Alpha**, worked on **ReGen** — an initiative exploring sust
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyyyi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyyyi&show_icons=true&theme=radical)
 
-<img src="https://streak-stats.demolab.com/?user=Shreyyyi&theme=tokyonight&hide_border=true" height="180"/>
+![shreya's GitHub stats](https://github-readme-stats.shion.dev/api?username=Shreyyyi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<br/><br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyyyi&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyyyi&layout=compact&theme=tokyonight&hide_border=true"/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyyyi?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
+
+
 
 </div>
 
